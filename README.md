@@ -49,18 +49,6 @@ To update student details, input the roll number, and update the necessary infor
 
 ### If Input Data is Not Valid
 
-*Describe the steps or alerts for handling invalid input data.*
-
-## Installation
-
-1. Clone the project to your local machine:
-
-   ```bash
-   git clone https://github.com/prashant-smart/Recommendation-system.git
-   ```
-
-2. After cloning, navigate to the `public_html` folder and then the `script` folder. In the `script.js` file, replace the `connectionToken` with your JsonPowerDB Connection Token.
-
 ## Sources
 
 - Introduction to JsonPowerDB - V2.0 course on [Login2Explore](https://careers.login2explore.com/)
