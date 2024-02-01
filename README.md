@@ -47,8 +47,6 @@ To update student details, input the roll number, and update the necessary infor
 3. Fill in the student information.
 4. Save the data to the database if the input is valid.
 
-### If Input Data is Not Valid
-
 ## Sources
 
 - Introduction to JsonPowerDB - V2.0 course on [Login2Explore](https://careers.login2explore.com/)
